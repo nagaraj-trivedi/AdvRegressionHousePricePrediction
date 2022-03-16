@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# AdvancedRegressionHousePricePrediction
+> It predicts the house price based on the various predictor variables
 
 
 ## Table of Contents
