@@ -13,8 +13,9 @@
 ## General Information
 - This project predicts the price of a house of a house by appying the advanced machine learning algorithm.
 - The background of this project is to solve the business problem of finding out a potentional house for investment ?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- It solves the business problem for anyone who wants to buy the house for invenstment purpose and sell it later with higher price.
+- It consideres various parameters to arrive at prediction of the future price of a house.
+- It makes use of the housing data set
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
