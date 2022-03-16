@@ -11,8 +11,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
+- This project predicts the price of a house of a house by appying the advanced machine learning algorithm.
+- The background of this project is to solve the business problem of finding out a potentional house for investment ?
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
